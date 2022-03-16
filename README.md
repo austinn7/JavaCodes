@@ -1,2 +1,2 @@
-# JavaCodes
-Repository containing programs written in Java that I have completed both inside and outside of schoolwork.
+#AudioVisualizer
+The following files are used in the creation of an Audio Visualizer that utilizes built-in UI elements of JavaFX to show the decibel levels of different frequency ranges in a dynamic format. It allows the user to select a song, play or pause that song, adjust the volume, and adjust the current time in the song. The user can select a certain amount of bands to represent the different frequencies and the program updates the ranges of those frequencies dynamically to provide an accurate visualization of the audio file they are listening to.
